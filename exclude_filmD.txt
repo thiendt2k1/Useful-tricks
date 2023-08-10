@@ -1,0 +1,16 @@
+exclude.txt
+Vsmart Joy 4 _ V441A - Erase Frp Without Pc  - By ChuyềnMobileGsm.mp4
+
+
+/x/
+*.parts
+*.zip
+*.7z
+.bat
+*.pdf
+*.exe
+*.txt
+*.jpg
+*.png
+*.iso
+*.ISO
