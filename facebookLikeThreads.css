@@ -1,0 +1,123 @@
+/* Theme Facebook design by https://www.facebook.com/100027548933637 */
+:root,.__fb-light-mode{
+	--fb-logo:#000!important;
+	--accent:#000!important;
+	--primary-button-background:#000!important;
+	--badge-background-color-blue:#000!important;
+	--blue-link:#000!important;
+  --switch-active:#000!important;
+	--web-wash:#fff!important;
+	--divider:rgba(0, 0, 0, 0.15)!important;
+	--primary-deemphasized-button-background:rgb(245, 245, 245)!important;
+  --secondary-button-background:rgb(245, 245, 245)!important;
+  --card-box-shadow:0 12px 28px 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.1)!important;
+	--comment-background:rgb(245, 245, 245)!important;
+	--disabled-button-background:rgb(245, 245, 245)!important;
+	--secondary-icon:rgb(184, 184, 184)!important;
+	--base-blue:#000!important;
+	--primary-deemphasized-button-text:#000!important;
+	--filter-accent:invert(2%) sepia(70%) saturate(5671%) hue-rotate(203deg) brightness(96%) contrast(101%)!important;
+	--filter-placeholder-icon:invert(2%) sepia(70%) saturate(5671%) hue-rotate(203deg) brightness(96%) contrast(101%)!important;
+  --media-inner-border:transparent!important;
+  --overlay-alpha-80:#000!important;
+	--secondary-text:#666!important;
+	--card-background:#fff!important;
+	--card-corner-radius:20px!important;
+	--chat-outgoing-message-bubble-background-color:#000!important;
+	--mwp-header-background-color:#fff!important;
+	--mwp-hotlike-color:#000!important;
+	--chat-incoming-message-bubble-background-color:rgb(245, 245, 245)!important;
+	--chat-composer-button-color:#000!important;
+	--hover-overlay:rgba(0, 0, 0, 0.04)!important;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+body{font-family:system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial,sans-serif!important}
+/* Ẩn */
+.xkj2jnh.x9wwp8f.xlk3v91.x1ey2m1c.x4n2nu6.x47corl.x10l6tqk.x13vifvy.xci0xqf.x1daaz14{display:none!important}
+.x1ve1bff{z-index:999;background:rgba(255, 255, 255, 0.85)!important;backdrop-filter:blur(28.5px)!important;-webkit-backdrop-filter:blur(28.5px)}
+/* Column */
+.x9f619.x1ja2u2z.xnzfen.x1w3jsh0.x1wbvgsv.xsugpx9.xds687c.x1hagigm.x47corl.x10l6tqk.x17qophe{display:none!important}
+/* Design */
+.xvo6coq{box-shadow:none}
+.xquyuld{box-shadow:none!important;border-bottom:1px solid rgba(0, 0, 0, 0.15)!important;border-radius: 0!important;}
+.xuoj239{height:0!important;border-radius:0!important;display:none!important}
+.xng8ra{height:50px!important}
+.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x1xzczws.x7wzq59.xxzkxad.x9e5oc1{display:none!important}
+.x191j7n5.x92rtbv.x10l6tqk.x1useyqa{display:none!important}
+.xhvdbge{height:6px!important}
+.xnyloks{min-width:6px!important}
+.xdi0jry{background:#000!important}
+.x6s0dn4.xtk6v10.x3nfvp2.x5yr21d.xl56j7k.xexx8yu.x1mpkggp.x18d9i69.x1t2a60a.xh8yej3{padding:0!important;font-size:0!important}
+.xtu2xtp{top:10px!important;left:19.5px!important}
+.x1qhmfi1{background:none!important}
+.xi3auck{mix-blend-mode:luminosity!important;filter:invert(2%) sepia(70%) saturate(5671%) hue-rotate(203deg) brightness(96%) contrast(101%)}
+.x2bj2ny.x1afcbsf.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1cvmir6.xcoz2nd.xxzkxad.x1r98mxo.xiylbte.xoa9owu.x19d5s1r.xwn1f64{border-right:1px solid rgba(0, 0, 0, 0.15)!important}
+.xev17xk{box-shadow:none!important}
+.x2pq9lr{box-shadow:none!important}
+.x1h0vfkc{background:rgb(0 0 0 / 70%)!important}
+div.x1n2onr6a{display:none!important}
+.x8ii3r7{box-shadow:0 20px 28px 0 rgba(0, 0, 0, 0.1)!important}
+.x6s0dn4.x78zum5.x1a02dak.x1a8lsjc.x1pi30zi.x1swvt13.xz9dl7a .xmjcpbm{background:none!important}
+.x1qq9wsj{color:#000!important}
+.x1hr4nm9{background:rgb(0 0 0 / 5%) !important}
+.x1hc1fzr.x1unhpq9.x6o7n8i .x1swvt13{padding-left:0!important}
+.x1hc1fzr.x1unhpq9.x6o7n8i .x1pi30zi{padding-right:0!important}
+.x10b6aqq.x4b6v7d.x1ojsi0c.x1u6ievf.x67ttcy>div{padding:0 16px!important}
+.x78zum5.x1n2onr6.xh8yej3 .x1qhmfi1{background:rgba(0, 0, 0, 0.06)!important}
+.x1qxoq08::before{box-shadow:0 8px 24px 0 rgba(0, 0, 0, 0.08)!important;border:1px solid rgba(0, 0, 0, 0.15)!important;border-width:0 1px 1px 1px!important}
+.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14{position:fixed!important;top:0;margin-top:90px!important;margin-bottom:20px;right:20px;background:#fff!important;box-shadow:0 0 18px 0 rgba(0,0,0,0.1)!important;border-radius:10px!important;z-index:10;z-index:1000;transition:1s ease;overflow:hidden}
+.xxc7z9f{max-width:222px!important;min-height:842px}
+div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:first-child > div.x1y1aw1k > div:first-child > div:nth-child(2),div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:first-child > div.x1y1aw1k > div:first-child > div:nth-child(3),div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:first-child > div.x1y1aw1k > div:first-child > div:nth-child(4){display:none!important}
+.x1p8ty84{padding-right:0!important}
+.x1na7pl{padding-left:0!important}
+.x1s65kcs{height:74px!important}
+.x6s0dn4.x9f619.x78zum5.x1iyjqo2.x1s65kcs.x1d52u69.xixxii4.x17qophe.x13vifvy.xzkaem6{margin-left:16px!important}
+.x1a2a7pz.x1qjc9v5.xnwf7zb.x40j3uw.x1s7lred.x15gyhx8.x9f619.x78zum5.x1fns5xo.x1n2onr6.xh8yej3.x1ba4aug.xmjcpbm{background:#fff!important;border:1px solid rgba(0, 0, 0, 0.08)!important;box-shadow:0 8px 24px 0 rgba(0, 0, 0, 0.08) !important}
+.html-div.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x9f619.xdt5ytf.xh8yej3.x1lliihq.x1n2onr6.xhq5o37.x1qxoq08.x1cpjm7i.x1ryaae9.x1hmns74.x1mhyesy.x1y3wzot.xaqea5y.x30kzoy.x9jhf4c.x1b1mbwd.xav7gou.x6umtig.x9lpf2z.x1eqyvvh.xfbg1o9.x1kphnah.x1de4urk.xyt8op7,.html-div.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x9f619.xdt5ytf.xh8yej3.x1lliihq.x1n2onr6.xhq5o37.x1qxoq08.x1cpjm7i.x1ryaae9.x124lp2h.x1hmns74.x1mhyesy.x1y3wzot{position:fixed!important;float:right!important;margin:0 316px!important;right:0!important;width:280px!important}
+.x1mvi0mv{color:#000!important}
+.x1wpzbip{background:transparent!important}
+.x1fayt1i{-webkit-filter:drop-shadow(0 0 10px rgba(0, 0, 0, 0.10))!important;filter:drop-shadow(0 0 10px rgba(0, 0, 0, 0.10))!important}
+.x6l8u58{box-shadow:0 8px 24px 0 rgba(0, 0, 0, 0.08)!important}
+div.x78zum5.xdt5ytf.xg6iff7.x1n2onr6.xwnxf6m > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj:nth-child(2) > div.__fb-light-mode.x1qjc9v5.x9f619.x78zum5.xdt5ytf.xl56j7k.x1c4vz4f.xg6iff7 > div.x1cy8zhl.x9f619.x78zum5.xl56j7k.xeuugli.x47corl.xurb0ha.x1sxyh0.x1x97wu9.xbr3nou.x3v4vwv.x1dzdb2q.x1xoerdy > div.x1n2onr6.x1ja2u2z.x1afcbsf.x78zum5.xdt5ytf.x1a2a7pz.x6ikm8r.x10wlt62.x71s49j.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1.xt3gfkd.x104qc98.x1g2kw80.x16n5opg.xl7ujzl.xhkep3z.x193iq5w > form > div.xt7dq6l.x1a2a7pz.x6ikm8r.x10wlt62.x1n2onr6.x14atkfc:first-child > div.x9f619.x1ja2u2z.x1k90msu.x6o7n8i.x1qfuztq.x10l6tqk.x17qophe.x13vifvy.x1hc1fzr.x71s49j:first-child > div.x9f619.x5yr21d.x1n2onr6.xh8yej3 > div.x78zum5.x1q0g3np.xqui1pq.x1pl0jk3.x1plvlek.xryxfnj.x14ocpvf.x5oemz9.x1lck2f0.xlgs127 > div.x78zum5.xdt5ytf.x1pl0jk3.x1n2onr6.x8n7wzh.x11pth41.x179dxpb.xvue9z > div:first-child > div.x1n2onr6:first-child > div > div.x6s0dn4.x1nb4dca.x1q0q8m5.xso031l.x9f619.x78zum5.xng8ra.xl56j7k:first-child{display:none!important}
+.x6s0dn4.x78zum5.xl56j7k.x1n2onr6.x5yr21d.xh8yej3 i.x1b0d499.xl1xv1r{filter:brightness(0.6)!important}
+.x6s0dn4.x1jx94hy.x8cjs6t.x1ch86jh.x80vd3b.xckqwgs.x1lq5wgf.xgqcy7u.x30kzoy.x9jhf4c.x13fuv20.xu3j5b3.x1q0q8m5.x26u7qi.x178xt8z.xm81vs4.xso031l.xy80clv.xev17xk.x9f619.x78zum5.x1qughib.xktsk01.x1d52u69.x1y1aw1k.x1sxyh0.xwib8y2.xurb0ha{position:fixed!important;z-index:9!important;top:4px!important;right:-16px!important;border:0!important}
+._9t1d .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xeuugli.x2bj2ny.x85a59c.x1t2pt76.x12slza2.x1dqk2q1.x1mnsmir{display:none!important}
+.x6s0dn4.x1jx94hy.x8cjs6t.x1ch86jh.x80vd3b.xckqwgs.x1lq5wgf.xgqcy7u.x30kzoy.x9jhf4c.x13fuv20.xu3j5b3.x1q0q8m5.x26u7qi.x178xt8z.xm81vs4.xso031l.xy80clv.xev17xk.x9f619.x78zum5.x1qughib.xktsk01.x1d52u69.x1y1aw1k.x1sxyh0.xwib8y2.xurb0ha .xexx8yu.x1sxyh0.x18d9i69.xurb0ha{display:none!important}
+.x6s0dn4.x9f619.x78zum5.x1iyjqo2.x1s65kcs.x1d52u69.xixxii4.x17qophe.x13vifvy.xzkaem6{margin-left:300px!important}
+.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14:before{
+		content:'';	
+    z-index: -1;
+    width: 32rem;
+    height: 32rem;
+    background-image: radial-gradient(circle closest-side at 50% 50%, rgba(252, 232, 3, .1), transparent);
+    filter: blur(0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%);
+}
+.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1jchvi3.x1lbecb7.x1s688f.xi81zsa span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.x1j85h84:before{content:'';float:right;width:50px;height:50px;position:fixed;top:12px;
+    right:105px;transform:rotate(30deg);background-size:70%;background-repeat:no-repeat;
+background-image: url("data:image/svg+xml,%3Csvg fill-rule='evenodd' clip-rule='evenodd' stroke-linejoin='round' stroke-miterlimit='1.414' xmlns='http://www.w3.org/2000/svg' aria-label='bag' viewBox='0 0 32 32' preserveAspectRatio='xMidYMid meet' fill='currentColor' width='48' height='48' title='bag'%3E%3Cg%3E%3Cpath d='M19.229 17.06c-.65-.64-1.948-.96-3.247.32-1.298-1.28-2.597-.96-3.246-.32-2.597 2.56 2.45 5.94 3.246 5.94.797 0 5.844-3.38 3.247-5.94z'%3E%3C/path%3E%3Cpath d='M14 11.524a77.266 77.266 0 0 1 2-.024c10.083 0 11 1.5 11 8s-.917 8-11 8c-.711 0-1.377-.007-2-.024-8.208-.212-9-1.935-9-7.976s.792-7.764 9-7.976zM7 19.5c0 1.581.039 2.668.25 3.542.166.799.259 1.02.715 1.332.359.285 1.028.598 2.38.816 1.384.226 3.158.31 5.604.31H16c2.473 0 4.261-.083 5.655-.31 1.352-.218 2.021-.53 2.38-.816.456-.313.55-.533.715-1.332.211-.874.25-1.96.25-3.542 0-1.581-.039-2.668-.25-3.542-.166-.799-.259-1.02-.715-1.332-.359-.285-1.028-.598-2.38-.816-1.394-.227-3.182-.31-5.655-.31h-.05c-2.447 0-4.22.085-5.605.31-1.352.218-2.021.53-2.38.816-.456.313-.55.533-.715 1.332-.211.874-.25 1.96-.25 3.542z'%3E%3C/path%3E%3Cpath d='M16 4.5a5 5 0 0 0-5 5v2a1 1 0 1 0 2 0v-2a3 3 0 0 1 6 0v2a1 1 0 1 0 2 0v-2a5 5 0 0 0-5-5z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+}
+.x1daaz14.add{display:none!important}
+.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xeuugli.x150jy0e.x1e558r4.x10b6aqq.x1yrsyyn span.x3nfvp2 i{display:none!important}
+.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xeuugli.x150jy0e.x1e558r4.x10b6aqq.x1yrsyyn span.x3nfvp2{position:absolute!important}
+.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xeuugli.x150jy0e.x1e558r4.x10b6aqq.x1yrsyyn span.x3nfvp2:before{content:'';float:left;width:30px;height:30px;position:absolute!important;top:-17px;left:-24px;background-repeat:no-repeat;
+background-image: url("data:image/svg+xml,%3Csvg fill-rule='evenodd' clip-rule='evenodd' stroke-linejoin='round' stroke-miterlimit='1.414' xmlns='http://www.w3.org/2000/svg' aria-label='thumbsup' viewBox='0 0 32 32' preserveAspectRatio='xMidYMid meet' fill='%23666' width='30' height='30' title='thumbsup'%3E%3Cpath d='M7.11609 6.25327C7.30603 6.91034 7.75196 7.56741 8.73756 8.22448C7.67788 8.22448 6.74923 8.24963 5.9474 8.33187C2.58744 8.6765 1.45411 10.0237 2.23758 14.7245C3.02066 19.423 4.53964 19.2648 8.86905 18.8137C9.14666 18.7848 9.43631 18.7546 9.73758 18.7245C12.8823 18.41 14.7376 18.2245 14.7376 14.2245C14.7376 12.5811 14.6536 11.2445 14.3536 10.2245C14.2542 9.8866 14.1311 9.58344 13.9794 9.31537C13.6845 8.79387 13.2817 8.40512 12.7356 8.15169L13.5775 6.33754C14.3267 6.68523 14.9003 7.17426 15.3369 7.74823C15.5731 7.31245 15.9303 6.89419 16.4732 6.60115C17.1608 6.23008 17.8831 6.22448 18.2376 6.22448C18.5921 6.22448 19.3143 6.23008 20.0019 6.60115C20.8289 7.04747 21.2248 7.78428 21.4188 8.43103C21.5624 8.9347 21.6562 9.65668 21.6942 10.4126C21.7289 11.1359 21.7375 12.0698 21.7376 13.2245C21.7375 14.3791 21.7289 15.3131 21.6942 16.0364C21.6562 16.7923 21.5624 17.5143 21.4188 18.0179C21.2248 18.6647 20.8289 19.4015 20.0019 19.8478C19.3143 20.2189 18.5921 20.2245 18.2376 20.2245C17.8831 20.2245 17.1608 20.2189 16.4732 19.8478C15.9618 19.5718 15.6152 19.1846 15.3793 18.7764C15.1401 19.0456 14.8636 19.2903 14.5454 19.5077C13.2538 20.3905 11.5302 20.5588 10.1881 20.6898C10.1027 20.6981 10.0187 20.7063 9.93658 20.7146C9.65345 20.7428 9.37742 20.7715 9.10868 20.7994L9.10752 20.7996C8.20887 20.8929 7.39167 20.9778 6.66298 21.0115C5.71916 21.0538 4.67884 21.0247 3.71167 20.6554C1.45262 19.7929 0.687679 17.5907 0.264782 15.0533C-0.218098 12.156 -0.211308 9.44247 1.7682 7.76513C2.69259 6.98185 3.83361 6.62916 4.94181 6.44761C5.00189 6.43799 5.06274 6.42876 5.12437 6.41988C5.03077 5.97543 4.9896 5.55387 4.98756 5.22448C4.98756 2.89168 6.35162 1.49043 7.55798 0.609369C8.09816 0.21485 8.81247 -0.0717593 9.62532 0.0158339C10.4377 0.103374 11.0536 0.533314 11.4523 1.00362C12.1947 1.87944 12.3851 3.07465 12.2065 4.0758C12.1218 4.55031 12.1093 4.88402 12.212 5.17057C12.2859 5.37664 12.5205 5.84698 13.5775 6.33754L12.7356 8.15169C9.84489 6.81018 10.0423 4.8188 10.2376 3.72448C10.4328 2.63016 9.71331 1.51184 8.73756 2.22448C7.76181 2.93711 6.98756 3.81576 6.98756 5.22448C6.98756 5.56741 7.01696 5.91034 7.11609 6.25327ZM19.7376 13.2245C19.7376 17.8078 19.6126 18.2245 18.2376 18.2245C16.8626 18.2245 16.7376 17.8078 16.7376 13.2245C16.7376 8.64114 16.8626 8.22448 18.2376 8.22448C19.6126 8.22448 19.7376 8.64114 19.7376 13.2245Z' transform='translate(5.26244 5.77551)'%3E%3C/path%3E%3C/svg%3E");
+}
+
+
+div.x6s0dn4.x78zum5.x15zctf7.x1s65kcs.x1n2onr6.x1ja2u2z:first-child > div.x6s0dn4.x78zum5.x5yr21d.xl56j7k.x1emribx:nth-child(2) > span.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j > span > div.x9f619.x1n2onr6.x1ja2u2z > a.x1i10hfl.x1ejq31n.xd10rxx.x1sy0etr.x17r0tee.x1ypdohk.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.x16tdsg8.x1hl2dhg.xggy1nq.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.x14yjl9h.xudhj91.x18nykt9.xww2gxu.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x78zum5.xl56j7k.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x1n2onr6.x1vqgdyp.x100vrsf.x1hr4nm9:first-child svg,div.x6s0dn4.x78zum5.x15zctf7.x1s65kcs.x1n2onr6.x1ja2u2z:first-child > div.x6s0dn4.x78zum5.x5yr21d.xl56j7k.x1emribx:nth-child(2) > span.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j > span > div.x9f619.x1n2onr6.x1ja2u2z > a.x1i10hfl.x1ejq31n.xd10rxx.x1sy0etr.x17r0tee.x1ypdohk.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.x16tdsg8.x1hl2dhg.xggy1nq.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.x14yjl9h.xudhj91.x18nykt9.xww2gxu.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x78zum5.xl56j7k.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x1n2onr6.x1vqgdyp.x100vrsf.x1qhmfi1:first-child svg{display:none!important}
+
+div.x6s0dn4.x78zum5.x15zctf7.x1s65kcs.x1n2onr6.x1ja2u2z:first-child > div.x6s0dn4.x78zum5.x5yr21d.xl56j7k.x1emribx:nth-child(2) > span.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j > span > div.x9f619.x1n2onr6.x1ja2u2z > a.x1i10hfl.x1ejq31n.xd10rxx.x1sy0etr.x17r0tee.x1ypdohk.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.x16tdsg8.x1hl2dhg.xggy1nq.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.x14yjl9h.xudhj91.x18nykt9.xww2gxu.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x78zum5.xl56j7k.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x1n2onr6.x1vqgdyp.x100vrsf.x1qhmfi1:first-child:before{content:'';float:left;width:25px;height:25px;background-repeat:no-repeat;
+background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.5677 2.97464C10.177 3.29424 9.91724 3.74617 9.83772 4.24464C9.805 4.39841 9.73648 4.54231 9.63772 4.66464C9.54318 4.79174 9.41979 4.89457 9.27772 4.96464L8.48772 5.34464C7.85377 5.65486 7.29174 6.09427 6.83772 6.63464C5.43772 8.30464 5.43772 9.05464 5.43772 11.9046C5.43772 13.1946 4.06772 14.3646 3.70772 15.5246C3.48772 16.2146 3.36772 17.7746 5.18772 17.7746H18.7677C19.0338 17.7875 19.2988 17.7324 19.5377 17.6146C19.7762 17.4959 19.9821 17.3208 20.1377 17.1046C20.2857 16.8869 20.3784 16.6363 20.4077 16.3746C20.4308 16.1078 20.386 15.8395 20.2777 15.5946C19.9177 14.5046 18.4877 13.2046 18.4877 11.9146C18.4877 11.0346 18.4877 10.3546 18.4877 9.78464' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M15.2277 17.7746C15.2306 18.2021 15.1525 18.6262 14.9977 19.0246C14.8312 19.4202 14.5901 19.78 14.2877 20.0846C13.9832 20.3909 13.6197 20.6321 13.2192 20.7937C12.8187 20.9553 12.3895 21.0338 11.9577 21.0246C11.5252 21.0273 11.0965 20.9423 10.6977 20.7746C9.89757 20.4409 9.26148 19.8048 8.92774 19.0046C8.77087 18.6138 8.69271 18.1958 8.69774 17.7746' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='15.2278' cy='5.47464' r='2.5' stroke='currentColor' stroke-width='1.5'/%3E%3C/svg%3E%0A")}
+.x193iq5w.xgmub6v.x1ceravr{position:fixed;background:#fff;z-index:999;bottom:0;left:0;box-shadow:0 0 18px 0 rgba(0,0,0,0.1)!important;border-radius:20px;padding:10px;margin:20px;display:none!important}
+.x193iq5w.xgmub6v.x1ceravr .x1g2khh7{padding-bottom:0!important}
+.x193iq5w.xgmub6v.x1ceravr.add{display:none!important}
+.x193iq5w.xgmub6v.x1ceravr .x1y1aw1k{padding-top:6px!important}
+.x193iq5w.xgmub6v.x1ceravr .xwib8y2{padding-bottom:6px!important}
+.x193iq5w.xgmub6v.x1ceravr .x1useyqa{width:36px!important}
+.x193iq5w.xgmub6v.x1ceravr .xsdox4t{height:36px!important}
